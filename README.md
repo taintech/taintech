@@ -1,17 +1,7 @@
-## Rinat Tainov
+The visual search I built in 2018 had about 1.5 million uses a week. Even partitions gave hot clusters, because per-item compute was expensive.
 
-I am Rinat, Staff AI Engineer at eBay in Amsterdam.
+About a third of production models could not be recreated when I took over data science and data engineering. We put the ML pipelines under CI/CD.
 
-Fifteen years on data-intensive applications. Streaming, batch, data processing, and the pipelines underneath them. The output usually goes into modelling, or into training and serving an LLM.
+15+ years building data-intensive applications. Currently focused on agentic systems, AI observability and evaluations.
 
-I like building abstractions and building teams, but only around solutions that really work. And I want to stay hands on. So I have moved between individual contributor and leading teams more than once, on purpose, and I am on the IC track now by choice.
-
-Right now that means evaluation and observability for AI agents. Most tooling tells you what an agent did. Much less of it tells you whether the output was any good.
-
-I am learning Rust, and reading about OpenTelemetry, MCP and local-first tooling.
-
-- [tainov.com](https://tainov.com)
-- [LinkedIn](https://www.linkedin.com/in/rinat-tainov/)
-- [X](https://x.com/rinattainov)
-
-Let me know what you are building.
+quickmbti.com, which I built on my own, has about 195,000 test completions since Aug 2025.
